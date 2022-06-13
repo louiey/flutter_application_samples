@@ -602,7 +602,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+#lib/	#blocked to support flutter
 lib64/
 parts/
 sdist/
